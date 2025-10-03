@@ -1,4 +1,4 @@
 gh = "github"
-m = "mobile
+m = "mobile"
 
 print(f"{gh} {m}")
